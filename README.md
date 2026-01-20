@@ -1,4 +1,4 @@
-# Inmuebles24 Mexico Properties Dataset Sample
+# Inmuebles24 Mexico Properties データセットサンプル
 
 <h2>1,236件のレコードからなるサンプルデータセット</h2>
 
