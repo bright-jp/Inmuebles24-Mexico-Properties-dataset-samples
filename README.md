@@ -1,74 +1,74 @@
 # Inmuebles24 Mexico Properties Dataset Sample
 
-<h2>A sample dataset of 1,236 records</h2>
+<h2>1,236件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Inmuebles24-Mexico-Properties-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Inmuebles24 Mexico Properties Dataset Sample** includes **1,236 records** and was extracted using the **Bright Data API**.
+この **Inmuebles24 Mexico Properties Dataset Sample** には **1,236件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The unique web address for the property listing on Inmuebles24. |
-| `Title` | The main title of the property listing as provided by the seller. |
-| `GeneratedTitle` | A system-generated title summarizing property details such as type and size. |
-| `Description` | A detailed description of the property including features and location. |
-| `Seller` | The name or identifier of the individual or organization selling the property. |
-| `Precio` | The listed price of the property in the specified currency. |
-| `Publicado_hace` | The time elapsed since the property was listed, expressed in days. |
-| `CreatedDate` | The date when the property listing was created on the platform. |
-| `Visualizaciones` | The number of times the property listing has been viewed. |
-| `Dimension_terreno` | The total land area of the property in square meters. |
-| `Dimension_propiedad` | The built or covered area of the property in square meters. |
-| `Estacionamiento` | The number of parking spaces available with the property. |
-| `Banos` | The number of bathrooms within the property. |
-| `Dormitorios` | The number of bedrooms in the property. |
-| `Antiguedad` | The age of the property, typically in years. |
-| `pictures` | Links or identifiers for images of the property included in the listing. |
-| `videos` | Links or identifiers for videos of the property included in the listing. |
-| `Tipo_de_inmueble` | The type of property, such as apartment, house, or commercial space. |
-| `Tipo_de_operacion` | The type of transaction, such as sale or rent. |
-| `Tipovendedor` | The type of seller, such as owner or real estate agent. |
-| `Phone1` | The primary contact phone number for inquiries about the property. |
-| `whatsApp` | The WhatsApp contact number for instant messaging inquiries. |
-| `Operacion` | Specifies the operation type, such as purchase or lease. |
-| `Region` | The broader geographical region where the property is located. |
-| `Zona` | The specific zone or neighborhood of the property. |
-| `Ciudad` | The city in which the property is situated. |
-| `Provincia` | The province or state where the property is located. |
-| `Direccion` | The complete address of the property. |
-| `Superdestacado` | Indicates if the listing is featured or highlighted on the platform. |
-| `postingId` | A unique identifier for the property listing. |
-| `postingCode` | A code representing the property listing, often used internally. |
-| `publisher` | The publisher or platform through which the listing is advertised. |
-| `premier` | Indicates if the listing has a premier status or enhanced visibility. |
-| `URL` | The direct URL to the property listing. |
-| `aviso_finalizado` | Indicates if the listing has been finalized or closed. |
-| `currency` | The currency in which the property's price is listed. |
-| `latitude` | The geographic latitude coordinate of the property. |
-| `longitude` | The geographic longitude coordinate of the property. |
+| `url` | Inmuebles24上の物件掲載ページの一意のWebアドレスです。 |
+| `Title` | 売り手が提供する物件掲載のメインタイトルです。 |
+| `GeneratedTitle` | 物件の種類や広さなどの詳細を要約した、システム生成のタイトルです。 |
+| `Description` | 特徴や所在地を含む、物件の詳細説明です。 |
+| `Seller` | 物件を販売する個人または組織の名称または識別子です。 |
+| `Precio` | 指定された通貨での物件の掲載価格です。 |
+| `Publicado_hace` | 物件が掲載されてからの経過時間を日数で表したものです。 |
+| `CreatedDate` | プラットフォーム上で物件掲載が作成された日付です。 |
+| `Visualizaciones` | 物件掲載が閲覧された回数です。 |
+| `Dimension_terreno` | 物件の総土地面積（平方メートル）です。 |
+| `Dimension_propiedad` | 物件の建築面積または延床面積（平方メートル）です。 |
+| `Estacionamiento` | 物件に付帯する駐車スペースの数です。 |
+| `Banos` | 物件内のバスルーム数です。 |
+| `Dormitorios` | 物件内の寝室数です。 |
+| `Antiguedad` | 物件の築年数（通常は年）です。 |
+| `pictures` | 掲載に含まれる物件画像へのリンクまたは識別子です。 |
+| `videos` | 掲載に含まれる物件動画へのリンクまたは識別子です。 |
+| `Tipo_de_inmueble` | アパート、戸建て、商業スペースなどの物件種別です。 |
+| `Tipo_de_operacion` | 売買や賃貸などの取引種別です。 |
+| `Tipovendedor` | オーナーや不動産エージェントなどの売り手種別です。 |
+| `Phone1` | 物件に関する問い合わせ用の主要連絡先電話番号です。 |
+| `whatsApp` | インスタントメッセージでの問い合わせ用WhatsApp連絡先番号です。 |
+| `Operacion` | 購入や賃借などのオペレーション種別を指定します。 |
+| `Region` | 物件が所在する広域の地理的地域です。 |
+| `Zona` | 物件の特定ゾーンまたは近隣エリアです。 |
+| `Ciudad` | 物件が所在する都市です。 |
+| `Provincia` | 物件が所在する州または県です。 |
+| `Direccion` | 物件の完全な住所です。 |
+| `Superdestacado` | 掲載がプラットフォーム上で注目表示または強調表示されているかを示します。 |
+| `postingId` | 物件掲載の一意識別子です。 |
+| `postingCode` | 物件掲載を表すコードで、内部で使用されることが多いです。 |
+| `publisher` | 掲載が広告されている発行者またはプラットフォームです。 |
+| `premier` | 掲載がプレミアステータスまたは強化された可視性を持つかを示します。 |
+| `URL` | 物件掲載への直接URLです。 |
+| `aviso_finalizado` | 掲載が完了または終了しているかを示します。 |
+| `currency` | 物件価格が掲載されている通貨です。 |
+| `latitude` | 物件の地理的緯度座標です。 |
+| `longitude` | 物件の地理的経度座標です。 |
 
 
 ## Use Cases
 
 ### 1. Real Estate Market Analysis
-Analyze property trends and pricing in Mexico to help real estate professionals make data-driven investment decisions.
+メキシコにおける物件トレンドや価格を分析し、不動産プロフェッショナルがデータに基づく投資判断を行えるよう支援します。
 
 ### 2. Competitive Benchmarking
-Compare listings across various regions to evaluate competitive positioning and optimize property marketing strategies.
+さまざまな地域の掲載情報を比較して競争上のポジショニングを評価し、物件マーケティング戦略を最適化します。
 
 ### 3. Urban Development Planning
-Utilize geographic and property data to support urban planners in designing sustainable and efficient city infrastructures.
+地理情報および物件データを活用し、都市計画担当者が持続可能で効率的な都市インフラを設計できるよう支援します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で利用可能です:
+- **CSV**（このサンプルに含まれます）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -88,8 +88,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（一回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -98,14 +98,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+お客様の具体的な要件に基づき、追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Inmuebles24 Mexico Properties dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Get the full Inmuebles24 Mexico Properties dataset](https://brightdata.jp/products/datasets/real-estate)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** と **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供します。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) から行えます。
